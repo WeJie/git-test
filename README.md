@@ -5,3 +5,8 @@ commit 1
 commit 2 now
 
 commit 3 eventually
+
+new line
+
+new line 2
+
