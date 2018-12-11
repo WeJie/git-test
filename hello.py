@@ -1,1 +1,2 @@
-# one line
+def hello():
+    print 'hello world'
